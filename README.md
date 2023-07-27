@@ -1,4 +1,4 @@
-![Screenshot (77)](https://github.com/manan126/Celebal_CSI_Project/assets/75837572/46674709-f989-4e8f-8911-0ab4c52040a3)# Celebal_CSI_Project
+
 # FLEXIFY  a Netflix Clone
 
 ##  Live Demo
