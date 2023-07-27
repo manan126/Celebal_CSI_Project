@@ -2,7 +2,8 @@
 # FLEXIFY  a Netflix Clone
 
 ##  Live Demo
-[FLEXIFY](flexifyflixmovies.netlify.app)
+[Visit My Website](https://flexifyflixmovies.netlify.app/)
+
 
 ##  Features
 
